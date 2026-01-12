@@ -20,7 +20,7 @@ Allows you to download the final photo strip
 
 Start again without refreshing the page
 
-How it works
+How it works:
 
 The camera is accessed using the browser’s WebRTC API.
 When you press Capture, the current frame is drawn onto a canvas with the selected filter.
